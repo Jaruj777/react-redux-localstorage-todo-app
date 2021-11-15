@@ -1,0 +1,17 @@
+export const ADD_TODO = 'ADD_TODO'
+export const DELETE_TODO = 'DELETE_TODO'
+export const CLEAR_TODO_LIST = 'CLEAR_TODO_LIST'
+export const UPDATE_TODO = 'UPDATE_TODO'
+export const TOGGLE_ANIMATION = 'TOGGLE_ANIMATION'
+export const FETCH_TODO_DATA = 'FETCH__TODO_DATA'
+
+export const AUTH_SUCCESS = 'AUTH_SUCCESS'
+export const AUTH_EMAIL_ERROR = 'AUTH_EMAIL_ERROR'
+export const AUTH_PASSWORD_ERROR = 'AUTH_PASSWORD_ERROR'
+export const AUTH_LOGOUT = 'AUTH_LOGOUT'
+
+export const SHOW_ALERT = 'SHOW_ALERT'
+export const HIDE_ALERT = 'HIDE_ALERT'
+
+
+
